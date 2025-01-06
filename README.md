@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://mts-ml.github.io/development/four-card-feature-section-master/index.html)
+- [Live Site URL](https://mts-ml.github.io/four-card-feature-section-master/)
 
 
 ### Built with
